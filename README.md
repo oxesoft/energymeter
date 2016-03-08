@@ -22,5 +22,9 @@ Links
 ------------
 
 https://en.wikipedia.org/wiki/Electricity_meter
+
 https://en.wikipedia.org/wiki/Kilowatt_hour
+
 https://en.wikipedia.org/wiki/Power_factor
+
+![latest photo](https://raw.githubusercontent.com/oxesoft/energymeter/master/2016-03-08-measuring-voltage.jpg)
