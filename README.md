@@ -28,3 +28,5 @@ https://en.wikipedia.org/wiki/Kilowatt_hour
 https://en.wikipedia.org/wiki/Power_factor
 
 ![latest photo](https://raw.githubusercontent.com/oxesoft/energymeter/master/2016-03-08-measuring-voltage.jpg)
+
+![plotter serial](https://raw.githubusercontent.com/oxesoft/energymeter/master/2016-03-08-plotter-serial.jpg)

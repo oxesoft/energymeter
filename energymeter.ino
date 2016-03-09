@@ -7,7 +7,7 @@
 #define K        ((PT / AV) / SQ) // constant to me multiplied by the read value
 #define CHANNELS 4
 
-//#define OSCILLOSCOPE_MODE
+#define OSCILLOSCOPE_MODE
 
 int pins [CHANNELS] = {A0, A1, A2, A3};
 int v0   [CHANNELS];
